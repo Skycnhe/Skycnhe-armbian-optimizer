@@ -18,5 +18,5 @@ sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/Skycnhe/Skycnhe-arm
 
 N1特别优化
 
-```bash
+
 sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/Skycnhe/Skycnhe-armbian-optimizer/refs/heads/main/N1.sh)"
