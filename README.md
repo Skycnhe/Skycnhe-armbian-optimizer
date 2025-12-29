@@ -14,4 +14,4 @@
 **确保已连接网络，在终端执行以下命令：**
 
 ```bash
-sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/skycnhe/armbian-opt/main/optimize.sh)"
+sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/Skycnhe-armbian-optimizer/armbian-opt/main/optimize.sh)"
